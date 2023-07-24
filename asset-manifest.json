@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/projet_react_pays/static/css/main.696e166f.css",
+    "main.js": "/projet_react_pays/static/js/main.53e98bcc.js",
+    "static/media/main.jpg": "/projet_react_pays/static/media/main.516fbcd135926107480c.jpg",
+    "static/media/JosefinSans-Medium.ttf": "/projet_react_pays/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
+    "index.html": "/projet_react_pays/index.html",
+    "main.696e166f.css.map": "/projet_react_pays/static/css/main.696e166f.css.map",
+    "main.53e98bcc.js.map": "/projet_react_pays/static/js/main.53e98bcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.696e166f.css",
+    "static/js/main.53e98bcc.js"
+  ]
+}
